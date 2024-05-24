@@ -1,3 +1,3 @@
 # Power-BI
 
-Assignments during my Coaching.
+Assignments I have done during my Coaching.
